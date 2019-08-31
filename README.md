@@ -1,16 +1,16 @@
 # RDBMS
 
-###Create Database Query
+### Create Database Query
 create database *dbname*
 
-###Create Table Query
+### Create Table Query
 create table ***tbname***
 
-###Insert into Table Query
+### Insert into Table Query
 insert into ***tbname col1=val1, col2=val2 ...*** 
 
-###Projection Query
+### Projection Query
 select ***columns or * for all columns*** from ***tbname***
 
-###Show created tables
+### Show created tables
 show tables
