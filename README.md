@@ -1,5 +1,7 @@
 # RDBMS
 
+A simple RDBMS implementation using C++
+
 ### Create Database Query
 create database *dbname*
 
